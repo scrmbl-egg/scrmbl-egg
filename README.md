@@ -29,12 +29,16 @@
 ## About me
 :smile: Hello! My name is Daniel Naval.
 
-I am a passionate upcoming developer with education in **:space_invader: 3D Animation & Game Development**, **:robot: Robotic Process Automation** and\
-**:computer: Cross-Platform Applications Development**. I specialize in object-oriented programming languages like <ins>C#</ins> or <ins>Java</ins>, but from time to time, I also like to dive in languages and practices that other developers would find strange, like Minecraft's (2009) scripting language: <ins>mcfunction</ins>.
+I am a passionate upcoming developer with education in **:space_invader: 3D Animation & Game Development**, **:robot: Robotic Process Automation** and
+**:computer: Cross-Platform Applications Development**. I specialize in object-oriented programming languages like <ins>C#</ins> or <ins>Java</ins>, 
+but from time to time, I also like to dive in languages and practices that other developers would find strange, like Minecraft's (2009) scripting 
+language: <ins>mcfunction</ins>.
 
 > [!NOTE]
-> Regarding <ins>mcfunction</ins>, you can currently check out the progress of my current project: [`mc_std`](https://github.com/scrmbl-egg/mc_std), a library of standard functions and abstractions for Minecraft datapacks!
+> Regarding <ins>mcfunction</ins>, you can currently check out the progress of my current project: [`mc_std`](https://github.com/scrmbl-egg/mc_std),
+> a library of standard functions and abstractions for Minecraft datapacks!
 
-Apart from that, I can also be quite flexible in other areas of development, like <ins>SQL</ins> for management of databases, or <ins>HTML</ins> and <ins>CSS</ins> for web development.
+Apart from that, I can also be quite flexible in other areas of development, like <ins>SQL</ins> for management of databases, or <ins>HTML</ins>
+and <ins>CSS</ins> for web development.
 
 That's all for now. *Stay tuned!*
