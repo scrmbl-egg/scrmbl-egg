@@ -2,9 +2,8 @@
 
 <!-- Photo and stats -->
 <div>
-    <img alt="photo" align="left" height="170" src="https://media.licdn.com/dms/image/v2/D4D03AQHhnO2vL21qkA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1708362174387?e=1742428800&v=beta&t=YWoVHk4SvzDBqrtF7xWoWT5FupM6JC1JtWTyzSeuASI" />
-    <img alt="stats" align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=scrmbl-egg&hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true"/>
-    <img alt="langs" align="right" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=scrmbl-egg&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true"/>
+    <img alt="stats" align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=scrmbl-egg&hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true"/>
+    <img alt="langs" align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=scrmbl-egg&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true"/>
 </div>
 
 <!-- Small space -->
@@ -12,19 +11,19 @@
 
 <!-- Row of software/language icons -->
 <div align="center">
-    <img alt="csharp" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img width="40">
-    <img alt="java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img width="40"/>
-    <img alt="godot" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
-    <img width="40"/>
-    <img alt="mcfunction" height="40" src="https://github.com/material-extensions/vscode-material-icon-theme/blob/main/icons/minecraft.svg">
-    <img width="40">
-    <img alt="mysql" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img width="40"/>
-    <img alt="html5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img width="40">
-    <img alt="css3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img alt="csharp" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    <img width="20">
+    <img alt="java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img width="20"/>
+    <img alt="godot" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
+    <img width="20"/>
+    <img alt="mcfunction" height="30" src="https://github.com/material-extensions/vscode-material-icon-theme/blob/main/icons/minecraft.svg">
+    <img width="20">
+    <img alt="mysql" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img width="20"/>
+    <img alt="html5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img width="20">
+    <img alt="css3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
 ## About me
