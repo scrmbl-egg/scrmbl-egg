@@ -34,12 +34,16 @@ I am a passionate upcoming developer with education in **:space_invader: 3D Anim
 but from time to time, I also like to dive in languages and practices that other developers would find strange, like Minecraft's (2009) scripting 
 language: <ins>mcfunction</ins>.
 
-> [!NOTE]
-> Regarding <ins>mcfunction</ins>, you can currently check out the progress of my current projects: [`mc_std`](https://github.com/scrmbl-egg/mc_std) -
-> a library of standard functions and abstractions for Minecraft datapacks, and also [`Hipochallenge`](https://github.com/scrmbl-egg/Hipochallenge) -
-> a 3v3 competitive minigame.
-
 Apart from that, I can also be quite flexible in other areas of development, like <ins>SQL</ins> for management of databases, or <ins>HTML</ins>
 and <ins>CSS</ins> for web development.
+
+> [!NOTE]
+> Here are projects I'm currently working on!
+> 
+> - **[bitenote](https://github.com/scrmbl-egg/bitenote) written in <ins>Java</ins>**: *A mobile application for writing and querying cooking recipes.*
+> - (PAUSED :pause_button:) **[mc_std](https://github.com/scrmbl-egg/mc_std) written in <ins>mcfunction</ins>:** *A library of standard functions and
+> abstractions for Minecraft datapacks.*
+> - (PAUSED :pause_button:) **[Hipochallenge](https://github.com/scrmbl-egg/Hipochallenge) written in <ins>mcfunction</ins>:** *The datapack for a Minecraft
+> 3v3 competitive minigame without mods or plugins.*
 
 That's all for now. *Stay tuned!*
