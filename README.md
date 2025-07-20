@@ -40,10 +40,10 @@ and <ins>CSS</ins> for web development.
 > [!NOTE]
 > Here are projects I'm currently working on!
 > 
-> - **[bitenote](https://github.com/scrmbl-egg/bitenote) written in <ins>Java</ins>**: *A mobile application for writing and querying cooking recipes.*
-> - (PAUSED :pause_button:) **[mc_std](https://github.com/scrmbl-egg/mc_std) written in <ins>mcfunction</ins>:** *A library of standard functions and
+> - **[mc_std](https://github.com/scrmbl-egg/mc_std) written in <ins>mcfunction</ins>:** *A library of standard functions and
 > abstractions for Minecraft datapacks.*
-> - (PAUSED :pause_button:) **[Hipochallenge](https://github.com/scrmbl-egg/Hipochallenge) written in <ins>mcfunction</ins>:** *The datapack for a Minecraft
+> - **[Hipochallenge](https://github.com/scrmbl-egg/Hipochallenge) written in <ins>mcfunction</ins>:** *The datapack for a Minecraft
 > 3v3 competitive minigame without mods or plugins.*
+> - (FINISHED ✔️) **[bitenote](https://github.com/scrmbl-egg/bitenote) written in <ins>Java</ins>**: *A mobile application for writing and querying cooking recipes.*
 
 That's all for now. *Stay tuned!*
