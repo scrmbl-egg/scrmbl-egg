@@ -1,19 +1,10 @@
 # Welcome to my GitHub profile!
 
-<!-- Photo and stats -->
-<div>
-    <img alt="stats" align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=scrmbl-egg&hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true"/>
-    <img alt="langs" align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=scrmbl-egg&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true"/>
-</div>
-
-<!-- Small space -->
-###
-
 <!-- Row of software/language icons -->
 <div align="center">
-    <img alt="csharp" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img width="20">
     <img alt="java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img width="20">
+    <img alt="csharp" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img width="20"/>
     <img alt="godot" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
     <img width="20"/>
